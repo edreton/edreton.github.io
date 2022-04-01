@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name": "Edgar Retontali",
+    "occupation": "Full Stack Developer",
+    "description": "Avid follower of new trends in technology",
+    "image": "profilepic.svg",
+    "bio": "Hi! I'm Edgar, Argentinian, avid follower of new trends in technology. I'm in Monterrey, Mexico and enjoy new cultures and stories that each person has to tell. I've been coding for over 20 years now. As a Full Stack developer I have worked with large companies helping to develop, scale and maintain their applications. Along the way I learned a lot, I met many interesting people and most importantly, I developed as a human being learning to manage my frustrations and enjoying my achievements. Let's make the web go round!",
+    "contactmessage": "Get in touch with me",
+    "email": "edgar.retontali@gmail.com",
+    "phone": "+52 **********",
+    "address": {
+      "street": "Working from home",
+      "city": "México",
+      "state": "Nuevo Leon",
+      "zip": "Monterrey"
+    },
+    "website": "https://edreton.github.io/",
+    "resumedownload": "https://drive.google.com/file/d/1-2BnSddpdBL1iJQk3WHt1IMFZpUBVv4j/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/edgar-retontali-6464a631",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/edreton",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/edreton",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Stack Proficiency",
+    "education": [
+      {
+        "school": "Atlantida Argentina University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2009 - 2012",
+        "description": "Not Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "The Home Depot México (Axen)",
+        "title": "Senior Full Stack .NET Developer",
+        "years": "Apr 2018 - Feb 2022",
+        "description": "C#, ASP.NET Core, REST API, Javascript, SQL Server, Bootstrap, HTML5, CSS, HTTP Services, GIT, Scrum"
+      },
+      {
+        "company": "Neoris",
+        "title": "Sr .Net Developer",
+        "years": "Oct 2017 - Feb 2018",
+        "description": "Angular 2/4/5, TypeScript, C#, REST API, Jquery, JQueryUI, Javascript, Json, Bootstrap, HTML5, CSS, GIT, Scrum"
+      },
+      {
+        "company": "Johnson Controls (Deintec)",
+        "title": "Sr .Net Developer",
+        "years": "Oct 2017 - Feb 2018",
+        "description": "C#, ASP.Net, VB, WCF, Javascript, JQuery, Bootstrap, EF, Linq, HTML, CSS, SQL Server"
+      },
+      {
+        "company": "Tenaris Tamsa (SITI)",
+        "title": ".NET Automation Engineer",
+        "years": "Jun 2015 - Jul 2016",
+        "description": "C#, Entity Framework, .NET Core, WPF, WCF, MVVM, SQL Server"
+      },
+      {
+        "company": "Tenaris Tamsa (Manpower)",
+        "title": "Technical Analyst",
+        "years": "Oct 2014 - Apr 2015",
+        "description": "Technical specification, analysis and components development, ASP/Javascript, Natural/Adabas on Unix, Oracle"
+      },
+      {
+        "company": "Accusys Technology",
+        "title": ".NET Developer",
+        "years": "Jan 2012 - Apr 2015",
+        "description": "ASP.Net, Javascript, SQL Server, Web Services, Banco Macro Reports, Kernel Central, Sharepoint 2010 Development, Transactions reports"
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NextJs",
+        "level": "85%"
+      },
+      {
+        "name": "Solidity/Smart Contracts/NFTs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": ".NET",
+        "level": "95%"
+      },
+      {
+        "name": "Rest APIs",
+        "level": "90%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "OpenSea Clone",
+        "category": "React, NextJS, TailwindCSS, Thirdweb, Sanity.IO",
+        "image": "opensea-clone.jpg",
+        "url": "https://opensea-rinkeby-clone.netlify.app"
+      },
+      {
+        "title": "Uber Web3",
+        "category": "React, NextJS, TailwindCSS, Mapbox-gl",
+        "image": "uber-web3.jpg",
+        "url": "https://uber-blockchain.netlify.app"
+      },
+      {
+        "title": "CMS Blog",
+        "category": "React, Nextjs, TailwindCSS, GraphQL, GraphCMS",
+        "image": "cms-blog.jpg",
+        "url": "https://next-cmsblog.netlify.app"
+      },
+      {
+        "title": "Pizza Restaurant",
+        "category": "React, NextJs, Material-UI, Axios, MongoDB/Mongoose, Paypal, Cookies, Redux",
+        "image": "pizza-restaurant.jpg",
+        "url": "https://deli-pizza.netlify.app"
+      },
+      {
+        "title": "Real Estate",
+        "category": "React, NextJs, Chakra-UI, Axios, RapidApi",
+        "image": "real-estate.jpg",
+        "url": "https://real-deal.netlify.app"
+      },
+      {
+        "title": "Expenses Tracker",
+        "category": "React, Material-UI, Speechly, ChartJS, CSS",
+        "image": "expense-tracker.jpg",
+        "url": "https://expentracker.netlify.app"
+      },
+      {
+        "title": "Cool Restaurant",
+        "category": "React, CSS",
+        "image": "cool-restaurant.jpg",
+        "url": "https://cool-restaurant.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Edgar is a hard-working, skilled, resourceful and quality-minded developer. On top of that he's got a great work ethic, knows how to manage his time and is easy to work with!",
+        "user": "Carlos Sotelo (Recommendation on LinkedIn)"
+      },
+      {
+        "text": "Como profesional, Edgar, tiene los conocimientos y las herramientas necesarias para resolver cualquier desafío. Siempre predispuesto a aprender, investigar y/o reforzar conocimientos. Cabe destacar que tiene un constante interés por las nuevas tecnologías y tendencias.",
+        "user": "Matias Aguilera (Recommendation on LinkedIn)"
+      },
+      {
+        "text": "Edgar es un excelente profesional y excelente compañero. Se destaca por su gran experiencia y conocimiento en desarrollo .NET tanto lo que es desarrollo web, como aplicaciones de escritorio. Tiene una gran capacidad de análisis. Es consultado por sus pares y el gerente del área. Tiene mucho interés por lo que hace y lo demuestra a la hora de trabajar.",
+        "user": "Carlos Alfonso (Recommendation on LinkedIn)"
+      }
+    ]
+  }
+}
