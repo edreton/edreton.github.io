@@ -57,7 +57,7 @@ const Resume = ({ data }) => {
       <div className="row work">
         <div className="three columns header-col">
           <h1>
-            <span>Employment History</span>
+            <span>Employments</span>
           </h1>
         </div>
 
