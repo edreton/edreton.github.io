@@ -85,6 +85,10 @@
     ],
     "skills": [
       {
+        "name": ".NET Full Stack",
+        "level": "95%"
+      },
+      {
         "name": "ReactJs",
         "level": "90%"
       },
@@ -105,11 +109,7 @@
         "level": "90%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
-      },
-      {
-        "name": ".NET",
+        "name": "Web Development (HTML, CSS, Frameworks)",
         "level": "95%"
       },
       {
